@@ -1,3 +1,4 @@
+// Student class
 export class Student {
     constructor(id, name, courses) {
         Object.defineProperty(this, "id", {
