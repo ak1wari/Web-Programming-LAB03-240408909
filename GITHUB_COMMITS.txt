@@ -1,0 +1,13 @@
+Suggested minimum 5 commits:
+
+1. Create project files
+2. Add Student class
+3. Add simulated database
+4. Add analytics functions
+5. Complete main program and README
+
+Run:
+git add .
+git commit -m "Create project files"
+
+Then make the next changes/commits separately.
