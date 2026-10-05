@@ -1,3 +1,4 @@
+// Student analytics functions
 export function calculateClassAverage(students, courseId) {
     let total = 0;
     let count = 0;
